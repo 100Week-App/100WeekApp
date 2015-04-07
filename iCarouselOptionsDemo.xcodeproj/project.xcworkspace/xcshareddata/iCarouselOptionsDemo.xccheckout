@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>71B4C26B-F2BE-479F-9B1D-06DB86B71F19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iCarouselOptionsDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C72350F99703B46D66FDFB75DD69A0902B9EAEA</key>
+		<string>https://github.com/100Week-App/100WeekApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iCarouselOptionsDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C72350F99703B46D66FDFB75DD69A0902B9EAEA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/100Week-App/100WeekApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8C72350F99703B46D66FDFB75DD69A0902B9EAEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C72350F99703B46D66FDFB75DD69A0902B9EAEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>100WeekApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
