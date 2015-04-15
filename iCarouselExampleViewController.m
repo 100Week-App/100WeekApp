@@ -255,7 +255,6 @@
         btnPlay = [UIButton buttonWithType:UIButtonTypeCustom];
         btnPlay.frame = CGRectMake(10, 10, 100, 100);
         CGPoint center = view.center;
-//        center.y += (center.y / 2);
         btnPlay.center = center;
         btnPlay.alpha = 0.5;
         btnPlay.tag = 1;
@@ -283,7 +282,6 @@
     
     view.backgroundColor = [UIColor colorWithPatternImage:image];
     
-//    label.text = [_items[index] stringValue];
     _lblSubHeading.text = [NSString stringWithFormat:@"Episode : 32"];
     
     return view;
@@ -309,6 +307,7 @@
     _carousel.perspective = -0.006;
 }
 -(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event{
+    
     UITouch *touch = [touches anyObject];
     CGPoint currentOffset = [touch locationInView:_carousel];
     
@@ -340,7 +339,6 @@
         _carousel.contentOffset = defaultContentOffset;
         
     }];
-//    viewOffset = defaultViewOffset;
 }
 -(void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event{
     lastContentOffset = CGPointMake(0, 0);
@@ -350,7 +348,6 @@
             _carousel.contentOffset = defaultContentOffset;
             
         }];
-//    viewOffset = defaultViewOffset;
 }
 -(void)carouselDidEndDragging:(iCarousel *)carousel willDecelerate:(BOOL)decelerate{
     
